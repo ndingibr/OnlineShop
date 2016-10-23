@@ -1,0 +1,114 @@
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Service.dll.config
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Service.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Service.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\FluentValidation.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\PagedList.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Data.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Model.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\EntityFramework.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Data.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\StockExchange.Model.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\FluentValidation.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\FluentValidation.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\PagedList.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\EntityFramework.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\obj\Debug\StockExchange.Service.csprojResolveAssemblyReference.cache
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\obj\Debug\StockExchange.Service.Properties.Resources.resources
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\obj\Debug\StockExchange.Service.csproj.GenerateResource.Cache
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\obj\Debug\StockExchange.Service.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\Backup\20160415\StockExchange.Service\obj\Debug\StockExchange.Service.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Service.dll.config
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Service.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Service.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\FluentValidation.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\PagedList.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Data.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Model.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\EntityFramework.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Data.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\StockExchange.Model.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\FluentValidation.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\FluentValidation.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\PagedList.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\EntityFramework.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\obj\Debug\StockExchange.Service.csprojResolveAssemblyReference.cache
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\obj\Debug\StockExchange.Service.Properties.Resources.resources
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\obj\Debug\StockExchange.Service.csproj.GenerateResource.Cache
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\obj\Debug\StockExchange.Service.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\obj\Debug\StockExchange.Service.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Service\bin\Debug\Newtonsoft.Json.xml
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Service.dll.config
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Service.dll
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Service.pdb
+C:\source\StockExchange.Service\bin\Debug\FluentValidation.dll
+C:\source\StockExchange.Service\bin\Debug\Newtonsoft.Json.dll
+C:\source\StockExchange.Service\bin\Debug\PagedList.dll
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Data.dll
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Model.dll
+C:\source\StockExchange.Service\bin\Debug\EntityFramework.dll
+C:\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\source\StockExchange.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Data.pdb
+C:\source\StockExchange.Service\bin\Debug\StockExchange.Model.pdb
+C:\source\StockExchange.Service\bin\Debug\FluentValidation.pdb
+C:\source\StockExchange.Service\bin\Debug\FluentValidation.xml
+C:\source\StockExchange.Service\bin\Debug\Newtonsoft.Json.xml
+C:\source\StockExchange.Service\bin\Debug\PagedList.xml
+C:\source\StockExchange.Service\bin\Debug\EntityFramework.xml
+C:\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\source\StockExchange.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\source\StockExchange.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\source\StockExchange.Service\bin\Debug\da\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\de\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\es\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\fi\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\fr\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\it\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\ko\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\nl\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\pl\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\pt\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\ru\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\sv\FluentValidation.resources.dll
+C:\source\StockExchange.Service\bin\Debug\tr\FluentValidation.resources.dll
+C:\source\StockExchange.Service\obj\Debug\StockExchange.Service.csprojResolveAssemblyReference.cache
+C:\source\StockExchange.Service\obj\Debug\StockExchange.Service.Properties.Resources.resources
+C:\source\StockExchange.Service\obj\Debug\StockExchange.Service.csproj.GenerateResource.Cache
+C:\source\StockExchange.Service\obj\Debug\StockExchange.Service.dll
+C:\source\StockExchange.Service\obj\Debug\StockExchange.Service.pdb

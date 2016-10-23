@@ -1,0 +1,102 @@
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\StockExchange.Model.dll.config
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\StockExchange.Model.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\StockExchange.Model.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\EntityFramework.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\FluentValidation.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\FluentValidation.Mvc.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.Helpers.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.Mvc.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.Razor.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.WebPages.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\EntityFramework.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\FluentValidation.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\FluentValidation.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\FluentValidation.Mvc.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.Helpers.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.Mvc.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.Razor.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.WebPages.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\da\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\de\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\es\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\fi\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\fr\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\it\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\ko\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\nl\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\pl\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\pt\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\ru\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\sv\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\tr\FluentValidation.resources.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\obj\Release\StockExchange.Model.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\obj\Release\StockExchange.Model.pdb
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\Newtonsoft.Json.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\briann\Documents\Visual Studio 2012\Projects\source\StockExchange.Model\obj\Release\StockExchange.Model.csprojResolveAssemblyReference.cache
+C:\source\StockExchange.Model\bin\Release\StockExchange.Model.dll.config
+C:\source\StockExchange.Model\bin\Release\StockExchange.Model.dll
+C:\source\StockExchange.Model\bin\Release\StockExchange.Model.pdb
+C:\source\StockExchange.Model\bin\Release\EntityFramework.dll
+C:\source\StockExchange.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\source\StockExchange.Model\bin\Release\FluentValidation.dll
+C:\source\StockExchange.Model\bin\Release\FluentValidation.Mvc.dll
+C:\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\source\StockExchange.Model\bin\Release\Newtonsoft.Json.dll
+C:\source\StockExchange.Model\bin\Release\System.Net.Http.Formatting.dll
+C:\source\StockExchange.Model\bin\Release\System.Web.Helpers.dll
+C:\source\StockExchange.Model\bin\Release\System.Web.Mvc.dll
+C:\source\StockExchange.Model\bin\Release\System.Web.Razor.dll
+C:\source\StockExchange.Model\bin\Release\System.Web.WebPages.Deployment.dll
+C:\source\StockExchange.Model\bin\Release\System.Web.WebPages.dll
+C:\source\StockExchange.Model\bin\Release\System.Web.WebPages.Razor.dll
+C:\source\StockExchange.Model\bin\Release\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\source\StockExchange.Model\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\source\StockExchange.Model\bin\Release\EntityFramework.xml
+C:\source\StockExchange.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\source\StockExchange.Model\bin\Release\FluentValidation.pdb
+C:\source\StockExchange.Model\bin\Release\FluentValidation.xml
+C:\source\StockExchange.Model\bin\Release\FluentValidation.Mvc.pdb
+C:\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\source\StockExchange.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\source\StockExchange.Model\bin\Release\Newtonsoft.Json.xml
+C:\source\StockExchange.Model\bin\Release\System.Net.Http.Formatting.xml
+C:\source\StockExchange.Model\bin\Release\System.Web.Helpers.xml
+C:\source\StockExchange.Model\bin\Release\System.Web.Mvc.xml
+C:\source\StockExchange.Model\bin\Release\System.Web.Razor.xml
+C:\source\StockExchange.Model\bin\Release\System.Web.WebPages.xml
+C:\source\StockExchange.Model\bin\Release\System.Web.WebPages.Deployment.xml
+C:\source\StockExchange.Model\bin\Release\System.Web.WebPages.Razor.xml
+C:\source\StockExchange.Model\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\source\StockExchange.Model\bin\Release\da\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\de\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\es\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\fi\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\fr\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\it\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\ko\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\nl\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\pl\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\pt\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\ru\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\sv\FluentValidation.resources.dll
+C:\source\StockExchange.Model\bin\Release\tr\FluentValidation.resources.dll
+C:\source\StockExchange.Model\obj\Release\StockExchange.Model.csprojResolveAssemblyReference.cache
+C:\source\StockExchange.Model\obj\Release\StockExchange.Model.dll
+C:\source\StockExchange.Model\obj\Release\StockExchange.Model.pdb
